@@ -1,6 +1,8 @@
 # 🛠️ARSW-2020-2-LAB5
 ## Juan Romero - Andres Sotelo
 ## Parte I - Ajustes Backend
+
+### LOS SIGUIENTES PUNTOS FUERON IMPLEMENTADO EN EL CODIGO DE ESTE REPOSITORIO
 Trabaje sobre la base del proyecto anterior una vez solucionado (REST-API Cinema).
 Incluya dentro de las dependencias de Maven los 'webjars' de jQuery y Bootstrap (esto permite tener localmente dichas librerías de JavaScript al momento de construír el proyecto):
 
